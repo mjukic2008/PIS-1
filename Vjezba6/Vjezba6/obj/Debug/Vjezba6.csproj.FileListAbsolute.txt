@@ -1,0 +1,9 @@
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\bin\Debug\Vjezba6.exe
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\bin\Debug\Vjezba6.pdb
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.csprojAssemblyReference.cache
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.Form1.resources
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.Properties.Resources.resources
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.csproj.GenerateResource.cache
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.csproj.CoreCompileInputs.cache
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.exe
+C:\Users\Marija\source\repos\Vjezba6\Vjezba6\obj\Debug\Vjezba6.pdb
